@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Research
+image: assets/images/dtb_10000signals-1.png
 nav-menu: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Publications
 image: assets/images/dtb_10000signals-1.png
 nav-menu: true
 ---

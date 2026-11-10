@@ -3,6 +3,9 @@ layout: page
 title: CV
 # image: assets/images/dtb_10000signals-1.png
 nav-menu: true
+show_tile: true
+nav_order: 2
+image: assets/images/logos.png
 ---
 
 <!-- Main -->
@@ -12,20 +15,58 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>CV</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Employement history</h2>
+<p> <strong>April 2026 &mdash; ongoing -  Research Associate </strong><br>
+Post-doctoral position at the Max Planck Institute for radioastronomy, Bonn, Germany. <br>
+Bayesian inference with simulations of the 21-cm signal.<br>
+ <em>Supervisor : Jonathan Pritchard.</em> </p>
+
+<p> <strong>October 2024 &mdash; April 2026 -  Research Associate </strong> <br>
+Post-doctoral position at the Department of Physics / Astrophysics Group, Imperial College London, UK <br>
+Bayesian inference with simulations of the 21-cm signal.<br>
+ <em>Supervisor : Jonathan Pritchard.</em> </p>
+
+
+
+
+
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h2 id="content">Education</h2>
+		<p> <strong> 2021 &mdash; 2024 -  Ph.D</strong><br>
+		PhD candidate at LERMA - Paris observatory. <br>
+		Thesis title: Bayesian inference with 3D radiative hydrodynamics simulations of the 21-cm signal.<br>
+		<em> Advisor : Benoit Semelin. </em> </p>
+		<p> <strong> 2020 &mdash; 2021 - 2nd year of Masters.</strong><br>
+		M2 Astronomy and Astrophysics at Paris Observatory. </p>
+		<p> <strong> 2020 &mdash; 2021- Research internship.</strong><br>
+		Internship at the Institute for Astronomy of Edinburgh<br>
+		Analysis of cosmological simulations. <br>
+		<em> Advisor : Sadegh Khochfar </em> </p>
+		<p> <strong> 2017 &mdash; 2019	 - Bachelor 3 and 1st year of Masters.</strong><br>
+		L3 - M1 Phytem (Physics, Theory, Experiments, Models) at ENS Paris Saclay, Cachan. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Skills</h3>
+		<p> <strong> Languages</strong><br>
+		English : strong reading, writing and speaking skills. </p>
+		<p> <strong>Coding</strong><br>
+		Proficient in Python, Fortran, basic level in C. Experience in High-performance Computing and Machine Learning </p>
+		<p> <strong> Teaching</strong><br>
+		4 semesters of teaching experience in Python, C, Maths at Sorbonne Université (level : First year of college) </p>
+		<p> <strong> Conferences</strong><br>
+		Work presented at the 2nd (France, 2021) and 3rd (Netherlands, 2023), NenuFAR Workshops, the Pisa
+		CD/EoR SKA Science Working Group meeting (Italy, 2022), the LOFAR EoR plenary meeting (France,
+		2022), the Sesto EoR Workshop (Italy, 2023), the Nazareth HI conference (Israel, 2023), French astro-
+		physics at radio frequencies conference (France, 2024), Building Indo-UK collaborations towards
+		the SKA (Oxford, 2025), the Cambridge 21-cm science meeting (Cambridge, 2025), the LOFAR family
+		meeting (Poster, France, 2025), The Science at low frequencies meeting (France 2025), The Cambridge
+		Nenufar Meeting (UK, 2026), the French SKA meeting (poster, France 2026), the Belgrade CD/EoR
+		SKA Science Working Group meeting (Serbia, 2026) </p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
